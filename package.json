@@ -1,0 +1,16 @@
+{
+  "name": "c7.6",
+  "version": "1.0.0",
+  "description": "Мой первый тест",
+  "main": "babel.config.js",
+  "dependencies": {
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "S_brod322",
+  "license": "ISC"
+}
